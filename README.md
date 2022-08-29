@@ -4,3 +4,5 @@ This is an experiment I did in google data studio creating an interactive dashbo
 The link to this report is https://datastudio.google.com/reporting/3e6ce608-d4aa-434a-b931-cbca444dcc17 
 
 The data used to create this report is the CSV file uploaded
+
+This was one of my favorite data analysis / visualization projects to make
